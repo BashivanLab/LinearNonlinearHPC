@@ -1,7 +1,4 @@
 # Installation
-```
-git clone --single-branch --branch monkey-trials https://github.com/BashivanLab/2d-memory.git
-```
 Create your own python virtual environment and activate it.
 Then:
 ```
